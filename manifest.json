@@ -1,5 +1,5 @@
 {
-  "name": "Click in Chrome With Keyboard",
+  "name": "ClickWithKeyboard",
   "description": "Click highlighted text without reaching for your mouse. This has been a first world pain in the ass for me in the past on many sites, so I hope it helps you like it does me :)",
   "version": "1.0",
   "manifest_version": 3
